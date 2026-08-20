@@ -43,11 +43,11 @@ This project addresses the following business questions:
 - Which products may require inventory replenishment?
 
 # Tools & Technologies
-|**MySQL** - Database creation, table management and SQL analysis| 
-|**Power BI** - Dashboard development and visualization| 
-|**Power Query** - ETL and data cleaning| 
-|**DAX** - Measures and analytical calculations| 
-|**GitHub** - Project version control and repository| 
+#**MySQL** - Database creation, table management and SQL analysis 
+#**Power BI** - Dashboard development and visualization
+#**Power Query** - ETL and data cleaning
+#**DAX** - Measures and analytical calculations 
+#**GitHub** - Project version control and repository 
 |**Excel / CSV** - Dataset storage and documentation| 
 
 # Dataset Description:
