@@ -418,7 +418,7 @@ The final dashboard helps users monitor business performance, identify trends, c
 # Author
 
 **Name:** Hemalatha S  
-**Course:** Data and Busineww Analyst with AI
+**Course:** Data and Business Analyst with AI
 **Institution:** Anudip Foundation  
 **Year:** 2026
 
